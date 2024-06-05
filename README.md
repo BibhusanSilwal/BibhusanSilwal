@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BibhusanSilwal
 - 👀 I’m interested in Web Developing and AI
-- 🌱 I’m currently learning Js and taking a course on AI
 - 💞️ I’m looking to collaborate on Web development, sharing information and making friends
 - 📫 You can reach me through bibhusansilwal62@gmail.com
 
